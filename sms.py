@@ -23,7 +23,7 @@ def head():
                 {Fore.RESET}                            [ > FLOOD SMS BY NODEJS < ]                                   
                 {Fore.RESET}                                            
                 {Fore.RESET}               [+] | Usage : [PHONE] [AMOUNT]
-                {Fore.RESET}               [+] | METHOD : A17 API                      
+                {Fore.RESET}               [+] | METHOD : 17 Api                     
                                                                                                                    
                                                                                                                    """)
         
