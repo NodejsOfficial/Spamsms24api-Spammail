@@ -1,5 +1,3 @@
 # Spam sms - Spam mail
-
-# Spam sms 17 Api
-
-# Spam mail
+spam sms 17 Api 
+spam mail
